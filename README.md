@@ -17,6 +17,12 @@ the problem each exercise presents.
 - [Gilded Rose](/gilded-rose) LOC 97
 - [Supermarket Receipt](/supermarket-receipt) LOC 238
 - [Tennis](/tennis) LOC 326
+- [Racing Car](/racing-car) LOC 394
+    - Turn ticket dispenser LOC 32
+    - Tire pressure monitoring system LOC 56
+    - Telemetry system LOC 104
+    - Text convertor LOC 110
+    - Leaderboard LOC 172
 
 **[Declan Hopkins](https://github.com/Dooskington)**
 
