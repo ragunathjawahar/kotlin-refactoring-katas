@@ -7,4 +7,5 @@ include(
   "racing-cars:leaderboard",
   "racing-cars:telemetry-system",
   "racing-cars:text-convertor",
+  "racing-cars:tire-pressure-monitoring-system",
 )
