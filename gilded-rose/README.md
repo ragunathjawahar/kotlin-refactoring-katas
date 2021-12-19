@@ -51,15 +51,15 @@ practice designing tests, taking small steps, running the tests often, and incre
 
 ### Gilded Rose Requirements in other languages
 
-- [English](GildedRoseRequirements.txt)
-- [Español](GildedRoseRequirements_es.md)
-- [Français](GildedRoseRequirements_fr.md)
-- [日本語](GildedRoseRequirements_jp.md)
-- [Português](GildedRoseRequirements_pt-BR.md)
-- [Русский](GildedRoseRequirements_ru.txt)
-- [ไทย](GildedRoseRequirements_th.md)
-- [中文](GildedRoseRequirements_zh.txt)
-- [한국어](GildedRoseRequirements_kr.md)
+- [English](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/GildedRoseRequirements.txt)
+- [Español](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/GildedRoseRequirements_es.md)
+- [Français](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/GildedRoseRequirements_fr.md)
+- [日本語](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/GildedRoseRequirements_jp.md)
+- [Português](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/GildedRoseRequirements_pt-BR.md)
+- [Русский](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/GildedRoseRequirements_ru.txt)
+- [ไทย](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/GildedRoseRequirements_th.md)
+- [中文](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/GildedRoseRequirements_zh.txt)
+- [한국어](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/GildedRoseRequirements_kr.md)
 
 ## Text-Based Approval Testing
 
