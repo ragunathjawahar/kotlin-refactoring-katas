@@ -4,4 +4,5 @@ include(
   "gilded-rose",
   "tennis",
   "supermarket-receipt",
+  "racing-cars:leaderboard",
 )
