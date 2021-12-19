@@ -26,6 +26,7 @@ It's important that no behavior changes as a result of these refactorings!
 - write an actual good test for calculation?
 
 ## License
+
 ```
 Copyright 2021 dooskington
 
