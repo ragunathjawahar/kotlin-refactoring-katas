@@ -8,4 +8,5 @@ include(
   "racing-cars:telemetry-system",
   "racing-cars:text-convertor",
   "racing-cars:tire-pressure-monitoring-system",
+  "racing-cars:turn-ticket-dispenser",
 )
