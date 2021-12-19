@@ -5,4 +5,5 @@ include(
   "tennis",
   "supermarket-receipt",
   "racing-cars:leaderboard",
+  "racing-cars:telemetry-system",
 )
