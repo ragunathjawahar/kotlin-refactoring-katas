@@ -6,4 +6,5 @@ include(
   "supermarket-receipt",
   "racing-cars:leaderboard",
   "racing-cars:telemetry-system",
+  "racing-cars:text-convertor",
 )
