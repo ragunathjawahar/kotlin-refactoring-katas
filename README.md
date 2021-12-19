@@ -3,6 +3,7 @@
 **[Emily Bache](https://github.com/emilybache)**
 
 - [Gilded Rose](/gilded-rose)
+- [Supermarket Receipt](/supermarket-receipt)
 - [Tennis](/tennis)
 
 **[Declan Hopkins](https://github.com/Dooskington)**
