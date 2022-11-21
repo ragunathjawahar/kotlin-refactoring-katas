@@ -18,4 +18,17 @@ class GildedRoseTest {
     // then
     Approvals.verify(outStream.toString())
   }
+
+  @Test
+  fun `basic test for 50 days`() {
+    // given
+    val outStream = ByteArrayOutputStream()
+    System.setOut(PrintStream(outStream))
+
+    // when
+    main(arrayOf("50"))
+
+    // then
+    Approvals.verify(outStream.toString())
+  }
 }
